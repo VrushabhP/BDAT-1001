@@ -1,0 +1,11 @@
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.csprojAssemblyReference.cache
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.csproj.CoreCompileInputs.cache
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.AssemblyInfoInputs.cache
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.AssemblyInfo.cs
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\bin\Debug\netcoreapp2.1\Assignment-3.deps.json
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\bin\Debug\netcoreapp2.1\Assignment-3.runtimeconfig.json
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\bin\Debug\netcoreapp2.1\Assignment-3.runtimeconfig.dev.json
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\bin\Debug\netcoreapp2.1\Assignment-3.dll
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\bin\Debug\netcoreapp2.1\Assignment-3.pdb
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.dll
+C:\Users\Vrushabh Patel\Desktop\BDAT 1001\Assignment-3\Assignment-3\obj\Debug\netcoreapp2.1\Assignment-3.pdb
